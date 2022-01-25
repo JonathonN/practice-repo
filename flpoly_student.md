@@ -1,26 +1,26 @@
 ## First Name Last Name
-
+Jonathon Nazario
 ### Term Year 
-
+SP 2022
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Intro to Business Finance
 
-- Course 3
+- Computer Information Technology and Applications
 
-- Course 4
+- Statistics 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Writing
 
-- Thing 2
+- Psychology
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Student at Poly <https://www.floridapoly.edu>
 
 ***
 
